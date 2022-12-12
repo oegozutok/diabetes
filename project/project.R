@@ -2,6 +2,7 @@
 # Description: An exploratory data analysis on the indicators of
 #              diabetes from the 2015 CDC BRFSS survey to examine
 #              what diabetes is correlated with.
+# R Version: 4.2.1
 
 library(tidyverse)
 library(dplyr)
