@@ -1,6 +1,7 @@
 <h1>University of Arizona</h1>
 <h1>DATA363 Project</h1>
 <h1>Introduction</h1>
+<h5>.R file inside archive file</h5>
 
 Diabetes is one of the most prevalent global diseases, impacting more than 450 million people worldwide and in America. Diabetes is a serious condition in which blood sugar regulation is affected in the pancreas by hormones like insulin. Diabetes can be deadly since it is important for organs in the body to maintain a stable intake of nutrients, which largely is mediated by glucose. Without consistent presence of glucose, there have been reports of brain or other types of tissue damage. The dataset can be accessed here: [Diabetes Health Indicators (link)](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset).
 
